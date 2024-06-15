@@ -1,0 +1,149 @@
+<students>
+    <student>
+        <student_name>Jerome Abad</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Pili, Camarines Sur</address>
+        <contact_number>9491238714</contact_number>
+    </student>
+    <student>
+        <student_name>Arvin David Agor</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Sto. Tomas, Camaligan, Camarines Sur</address>
+        <contact_number>9866385612</contact_number>
+    </student>
+    <student>
+        <student_name>Alick Benedick Albino</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>#23 San Juan Camaligan Camarines Sur</address>
+        <contact_number>9294358941</contact_number>
+    </student>
+    <student>
+        <student_name>Arnel Almario Jr.</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 1 Salvacion Baybay Calabanga Camarines Sur</address>
+        <contact_number>9558726390</contact_number>
+    </student>
+    <student>
+        <student_name>Ma. Sha Ann Arga</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 2 BIgaas Calabanga Camarines Sur</address>
+        <contact_number>9568413204</contact_number>
+    </student>
+    <student>
+        <student_name>Rex Voltaire Arga</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 4 Paolbo Calabanga Camarines Sur</address>
+        <contact_number>9467154387</contact_number>
+    </student>
+    <student>
+        <student_name>Roselle Azañes</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 1, San Lucas Calabanga Camarines Sur</address>
+        <contact_number>9685864720</contact_number>
+    </student>
+    <student>
+        <student_name>Trisha Mae Balmes</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Blk 13 Lot Urban Pacol, Naga City</address>
+        <contact_number>9663254185</contact_number>
+    </student>
+    <student>
+        <student_name>Jean Marie Bercasio</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>San Juan, Magarao, Camarines, Sur</address>
+        <contact_number>9494644975</contact_number>
+    </student>
+    <student>
+        <student_name>Harley Jane Cabrera</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>#266 Zone 7 San Miguel Calabanga Camarines Sur</address>
+        <contact_number>9927616656</contact_number>
+    </student>
+    <student>
+        <student_name>Stephen Christian Dy</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 2 Calzada St. Mabolo, Naga City</address>
+        <contact_number>9685755488</contact_number>
+    </student>
+    <student>
+        <student_name>Quiell Marzeth Gavis</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Milaor, Camarines Sur</address>
+        <contact_number>9658488938</contact_number>
+    </student>
+    <student>
+        <student_name>Paulo Lascano</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 1, New San Roque, Pili, Camarines Sur, 4418</address>
+        <contact_number>9632541878</contact_number>
+    </student>
+    <student>
+        <student_name>Dondie Karl Lozada</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Isarog Street, Barangay Tinago, Naga City</address>
+        <contact_number>9875463154</contact_number>
+    </student>
+    <student>
+        <student_name>Christian Nwin Mortega</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>ZONE 6 RIVERSIDE SAN ISIDRO MARAGAO, CAMARINES SUR</address>
+        <contact_number>9608606623</contact_number>
+    </student>
+    <student>
+        <student_name>Paul Mardanver Pan</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Antang's Residence, Zone 4, san Roque Communal</address>
+        <contact_number>9384618578</contact_number>
+    </student>
+    <student>
+        <student_name>Lorenzo Jay Pantalla</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>#44 Misericordia Street, Barangay Tinago, Naga City</address>
+        <contact_number>9634969100</contact_number>
+    </student>
+    <student>
+        <student_name>Michaela Vera Rosero</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 3 San Francisco, Naga City</address>
+        <contact_number>9888647518</contact_number>
+    </student>
+    <student>
+        <student_name>Kimberly Santiago</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 2 Amoguis, South Villazar Sipocot, Camarines Sur</address>
+        <contact_number>9706238826</contact_number>
+    </student>
+    <student>
+        <student_name>Napoleon Torres</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 2 Salvacion Baybay Calabanga Camarines Sur</address>
+        <contact_number>9518651372</contact_number>
+    </student>
+    <student>
+        <student_name>Justin Una</student_name>
+        <year>3</year>
+        <course>BSIS</course>
+        <address>Zone 6, Caroyroyan, Pili, Camarines Sur</address>
+        <contact_number>9395022655</contact_number>
+   </student>
+</students>
